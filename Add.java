@@ -9,7 +9,7 @@ public class Math {
 
         System.out.println("The first number is: " + num1);
         System.out.println("The second number is: " + num2);
-        System.out.println("The multiplication is: " + multiplication);
-        System.out.println("The division is: " + division);
+        System.out.println("The multiplication is: " + mul);
+        System.out.println("The division is: " + div);
     }
 }
